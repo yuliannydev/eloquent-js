@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/cap-2/3.js"
+            "program": "${workspaceFolder}/cap-2/2.js"
         }
     ]
 }

@@ -7,7 +7,7 @@ for (let index = 1; index <= 100; index++) {
         else{
             console.log("Fizz");
         }
-    } if (index %5 === 0) {
+    } else if (index %5 === 0) {
         console.log("Buzz");
     }
     else
@@ -16,6 +16,7 @@ for (let index = 1; index <= 100; index++) {
     }
 
 }
+
 
 
 
